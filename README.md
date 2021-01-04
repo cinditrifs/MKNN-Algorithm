@@ -9,3 +9,5 @@ Algoritma MKNN merupakan sebuah algoritma perbaikan/turunan dari algoritma K - N
 * Hamid Parvin, Hosein Alizadeh and Behrouz Minaei-Bidgoli. 2008. "MKNN: Modified K-Nearest Neighbor". Proceedings of the World Congress on Engineering and Computer Science 2008
 WCECS 2008, October 22 - 24, 2008, San Francisco, USA
 * [original paper](https://github.com/kiyahza27/MKNN-Algorithm/blob/main/Paper%20Original%20MKNN.pdf)
+## Weka Jar
+* [weka jar](https://github.com/cinditrifs/MKNN-Algorithm/blob/main/weka/dist/weka.jar)
