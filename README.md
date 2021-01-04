@@ -13,5 +13,5 @@ WCECS 2008, October 22 - 24, 2008, San Francisco, USA
 * Path (weka\dist\weka.jar)
 * [weka jar](https://github.com/cinditrifs/MKNN-Algorithm/tree/main/weka/weka/dist)
 ## Source Code (Java)
-* Path seharusnya (weka\src\main\java\weka\classifiers\lazy\ModifKNN)
+* Path seharusnya (weka\src\main\java\weka\classifiers\lazy\MKNN)
 * [Source Code](https://github.com/cinditrifs/MKNN-Algorithm/blob/main/MKNN.java)
